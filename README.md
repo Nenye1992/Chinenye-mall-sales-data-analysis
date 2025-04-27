@@ -1,2 +1,25 @@
-# Chinenye-mall-sales-data-analysis
-This Project tends to analyze trends to enable the stakeholders make informed decision on areas to improve in order to increase sales
+# Mall Sales Analysis
+
+### Project Overview
+
+As the business landscape evolves, making strategic decisions through sales data analysis is essential. This analysis explores mall sales data to evaluate product performance, total sales per mall, and overall store performance. The goal is to uncover trends that can drive better decision-making and increase revenue.
+
+### Data Source
+
+Sales Data: The primary dataset used for this analysis is the "Mall_salea_data.csv"file. Conataining detailed information about the sales made by each mall.
+
+### Tools
+
+- Excel -used for data cleaning
+- Power BI - used for data visualization
+  
+### Data Cleaning/Preparation
+
+Being a real word dataset, I performed the following task to be able to use the dataset to obtain insights:
+1. Data loading and inspection.
+2. Handling duplicates.
+3. Handling missing values.
+4. Creating new columns.
+5. Text Standardization.
+6. Data Cleaning and formating.
+
