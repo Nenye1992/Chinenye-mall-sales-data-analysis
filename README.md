@@ -21,5 +21,19 @@ Being a real word dataset, I performed the following task to be able to use the 
 3. Handling missing values.
 4. Creating new columns.
 5. Text Standardization.
-6. Data Cleaning and formating.
+6. Data formating.
+
+### Research Objective
+
+This project aims to create  visuals and data-driven insights to address the following key questions:
+- When is the peak sales period?
+- Which product category contribute most to revenue?
+- What are the most commonly used payment methods?
+- How have sales performed year over year?
+- Does the number of customer in each branch affect their total sales?
+
+### Data Analysis
+
+```powerbi
+
 
