@@ -1,5 +1,8 @@
 # Mall Sales Analysis
 
+### Table of contents
+- [Project Overview](#project_overview)
+- [Recommendations](#recommendations)
 ### Project Overview
 
 As the business landscape evolves, making strategic decisions through sales data analysis is essential. This analysis explores mall sales data to evaluate product performance, total sales per mall, and overall store performance. The goal is to uncover trends that can drive better decision-making and increase revenue.
