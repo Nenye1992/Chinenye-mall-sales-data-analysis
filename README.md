@@ -16,12 +16,11 @@ Sales Data: The primary dataset used for this analysis is the "Mall_salea_data.c
 ### Data Cleaning/Preparation
 
 Being a real word dataset, I performed the following task to be able to use the dataset to obtain insights:
-1. Data loading and inspection.
-2. Handling duplicates.
-3. Handling missing values.
-4. Creating new columns.
-5. Text Standardization.
-6. Data formating.
+1. Data loading and inspection: Uploaded the file on excel and carefully studied each column to understand what they represent and how they culd help in the analysis.
+2. Handling duplicates: Carefully removed duplicates using the invoice number.
+3. Handling missing values: Removed column with null values on the quantity column.
+4. Creating new columns: Created the sales amount column by multiplying the quantity by unit price.
+5. Text Standardization: Changed mAle to Male as standardization aids accuracy of the analysis.
 
 ### Research Objective
 
@@ -33,6 +32,19 @@ This project aims to create  visuals and data-driven insights to address the fol
 - Does the number of customer in each branch affect their total sales?
 
 ### Data Analysis
+```Power BI
+To calculate the sales Year on year(YOY)  the code below was used
+Sales_YOY = 
+Var PM = CALCULATE([Total sales],DATEADD(Tranx_date[Date],-1,YEAR))
+VAR CM = [Total sales]
+RETURN
+IF(AND(CM,PM),CM/PM-1)
+
+To calculate the average sales the code below
+
+Avg_sales = DIVIDE(SUM('Stores Dataset'[Sales Amount]),COUNT('Stores Dataset'[invoice_no]))
+```
+
 
 ### Results
 
