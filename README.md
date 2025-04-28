@@ -37,3 +37,17 @@ This project aims to create  visuals and data-driven insights to address the fol
 ```powerbi
 
 
+
+### Results
+
+- The mall experience peak sales during the weekend.
+- Fashion contributes 60% of the malls total revenue.
+- Cash is the most commonly used payment option.
+- Sales year on year declined this could be linked to the malls poor customer retention.
+- There is a positive correlation between total number of custmers and total sales made by each branch.
+
+### Recommendations
+
+1. Deploy top-performing sales staff to work during the weekends.
+2. Ensure the is no stockout period for fashion items.
+3
