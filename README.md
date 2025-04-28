@@ -34,10 +34,6 @@ This project aims to create  visuals and data-driven insights to address the fol
 
 ### Data Analysis
 
-```powerbi
-
-
-
 ### Results
 
 - The mall experience peak sales during the weekend.
@@ -49,5 +45,14 @@ This project aims to create  visuals and data-driven insights to address the fol
 ### Recommendations
 
 1. Deploy top-performing sales staff to work during the weekends.
-2. Ensure the is no stockout period for fashion items.
-3
+2. Ensure there is no stockout period for fashion items.
+3. Encourage cashless sales to improve efficiency and save time spent on attending to customers by awarding gift cards to customers when 
+   they make purchase up to a particular amount or give discount to customers who use their credit cards to make purchase.
+4. Implement upselling and cross-selling strategies via personalized text messages and emails.
+5. Launch targeted sales to help boost sales and increase mall customers.
+
+### Limitations
+
+1. The data being a real world data was messy therefore taking much time to clean up.
+2. Also the data for 2023 in the data has only records for three months this also affected this analysis because others yeras has records 
+   for the complete twelve months hence the three performance for the year 2023 could nt be ascertained.
